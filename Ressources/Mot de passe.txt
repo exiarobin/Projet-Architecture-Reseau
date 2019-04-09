@@ -1,0 +1,3 @@
+Domaine			: cesi.fr
+Login			: info
+Mot de passe	: ciscofornever
